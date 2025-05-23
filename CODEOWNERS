@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Sachin-Forensic24
+/src/backend/database.py      @Sachin-Forensic24
+/src/backend/routers/auth.py  @Sachin-Forensic24
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Sachin-Forensic24
